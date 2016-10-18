@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestProj_1</string>
+    <string name="add">add</string>
+    <string name="Photo">Photo</string>
+    <string name="Gallery">Gallery</string>
+    <string name="List">List</string>
+    <string name="Scaling">Scaling</string>
+    <string name="Parsing">Parsing</string>
+    <string name="Map">Map</string>
+    <string name="photo">Photo</string>
+    <string name="load">Load</string>
+</resources>
